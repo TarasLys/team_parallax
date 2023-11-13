@@ -281,6 +281,7 @@ border: 1px solid #000000;
     text-shadow: 3px 3px 0 #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
         color: white;
         letter-spacing: 1.7px;
+        font-size: 16px;
 }
 
 .myButton:hover {
